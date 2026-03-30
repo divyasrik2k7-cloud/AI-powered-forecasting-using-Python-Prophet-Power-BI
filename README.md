@@ -1,4 +1,3 @@
-# FUTURE_ML_01
 AI-powered forecasting using Python (Prophet) & Power BI
 
 This project demonstrates an end-to-end retail sales forecasting system that uses time-series forecasting techniques in Python and a fully interactive Power BI dashboard to visualize historical trends, seasonality, and future predictions.
